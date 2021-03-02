@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfes>
+    <nfe xmlns="https://springframework.org/batch/sample/io/oxm/domain">
+        <numero>11111</numero>
+        <valor>11.39</valor>
+        <tomador>Tomador 1</tomador>
+    </nfe>
+    <nfe xmlns="https://springframework.org/batch/sample/io/oxm/domain">
+        <numero>22222</numero>
+        <valor>11.39</valor>
+        <tomador>Tomador 2</tomador>
+    </nfe>
+    <nfe xmlns="https://springframework.org/batch/sample/io/oxm/domain">
+        <numero>33333</numero>
+        <valor>11.39</valor>
+        <tomador>Tomador 3</tomador>
+    </nfe>
+</nfes>
